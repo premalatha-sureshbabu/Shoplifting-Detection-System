@@ -51,8 +51,8 @@ Fig 1: Architecture Diagram:
 ## 📊 Output
 - **Prediction Result:** Normal Activity / Shoplifting Detected  
 - **Prediction Confidence:** Displayed as a percentage
-- 
- <img width="406" height="380" alt="image" src="https://github.com/user-attachments/assets/1e34f022-60e0-4b52-9710-a5236348e6b8" />
+
+<img width="406" height="380" alt="image" src="https://github.com/user-attachments/assets/1e34f022-60e0-4b52-9710-a5236348e6b8" />
  
 <img width="405" height="382" alt="image" src="https://github.com/user-attachments/assets/88a5bc4b-4cc5-4430-af6e-c17e78d34c28" />
 
